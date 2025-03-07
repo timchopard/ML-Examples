@@ -60,4 +60,8 @@ pip install -r requirements.txt
 
 Otherwise they may be installed as normal with ```pip```
 
+# K-Means Clustering
+
+This algorithm clusters data together into $K$ discrete groups with means 
+
 
